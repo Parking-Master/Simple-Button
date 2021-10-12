@@ -11,4 +11,4 @@ The library is so small there is no download. Just embed it with CDN:<br>
 <click>Button!</click>
 ```
 ## What it looks like
-<img src="image.png" />
+[<img alt="preview" width="200px" src="image.png" />](preview.htm)
