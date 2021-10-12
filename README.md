@@ -10,4 +10,4 @@ The library is so small there is no download. Just embed it with CDN:<br>
 ```
 <click>Button!</click>
 ```
-### Try it: [<img alt="preview" width="3.5%" src="image.png" />](preview.htm)
+### Try it: [<img alt="preview" width="3.5%" src="image.png" />](https://parking-master.github.io/Simple-Button/preview.htm)
