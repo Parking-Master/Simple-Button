@@ -1,0 +1,44 @@
+ @charset "utf-8";
+ click {
+     margin: 0;
+     padding: 0;
+     border: 0;
+     outline: 0;
+     font-weight: inherit;
+     font-style: inherit;
+     font-size: 100%;
+     font-family: inherit;
+     vertical-align: baseline;
+}
+ click:focus {
+    outline: 0;
+}
+ click:link, click:visited, click:active{
+    text-decoration:none;
+    color:#222
+}
+ click {
+    font-size: 100%;
+    font-family: inherit;
+}
+ click, click:after, click::before{
+    box-sizing:border-box;
+     -ms-box-sizing:border-box;
+     -moz-box-sizing:border-box;
+     -webkit-box-sizing:border-box;
+}
+ click {
+     margin: 4px;
+     font-family: Arial, Helvetica, sans-serif, 'Open sans', 'Verdana', Verdana, 'Segoe UI', 'Lato';
+     padding:9px 18px;
+     border-radius:3px;
+     border:0;
+     background:#ccc;
+     font-size:14px;
+     border-top:1px solid #FFF;
+     border-bottom:1px solid #aaa;
+     cursor:pointer;
+}
+ click:hover{
+     background:#d5d5d5;
+}
